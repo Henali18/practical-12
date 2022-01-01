@@ -1,0 +1,24 @@
+{
+  "name": "assign12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henali18/practical-12.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Henali18/practical-12/issues"
+  },
+  "homepage": "https://github.com/Henali18/practical-12#readme",
+  "description": ""
+}
